@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/python-sdk/commit/0bcecffc4c52c52e0502e53b59715ebaba88f998",
       "git:hexsha": "0bcecffc4c52c52e0502e53b59715ebaba88f998",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
